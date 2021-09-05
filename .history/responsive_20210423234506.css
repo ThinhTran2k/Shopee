@@ -113,7 +113,7 @@
     from {
             opacity: 0;
             /* top: calc(var(--header-height)/2); */
-            transform: translateY(-10px);
+            transform: translateY(50px);
         }
         to {
             opacity: 1;
